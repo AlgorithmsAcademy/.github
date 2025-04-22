@@ -1,11 +1,11 @@
-# 👩‍💻 AlgorithmAcademy
+# 👩‍💻 AlgorithmsAcademy
 
 <p align="center">
   <img src="source_images/AlgoHub_Logo_1.png" width="250">
   <br>
 </p>
 
-Welcome to **AlgorithmAcademy**!  
+Welcome to **AlgorithmsAcademy**!  
 We are a collaborative, open-source organization focused on building educational tools, resources, and repositories to help developers prepare for coding interviews, master algorithms, and explore advanced computer science topics.
 
 
