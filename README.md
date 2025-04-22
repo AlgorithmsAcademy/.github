@@ -27,6 +27,11 @@ We welcome contributions from everyone — whether you're a beginner or a season
 Start by checking out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide.
 
 
-## 💬 Questions or Ideas?
+## 💬 Questions or Suggestions?
 
-Open an issue or reach out — we’d love to hear from you!
+We welcome your input. If you have questions, feedback, or ideas to share, please open a [discussion](https://github.com/AlgorithmsAcademy/.github/discussions).  
+Your contributions help us improve and grow as a community.
+
+> [!IMPORTANT]
+> Please note that we may not be able to reply immediately.
+>
