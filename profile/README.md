@@ -1,7 +1,7 @@
 # 👩‍💻 AlgorithmsAcademy
 
 <p align="center">
-  <img src="source_images/AlgoHub_Logo_1.png" width="250">
+  <img src="../source_images/AlgoHub_Logo_1.png" width="250">
   <br>
 </p>
 
